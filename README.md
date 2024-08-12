@@ -1,9 +1,6 @@
-# React TypeScript Starter Pack
+This is a project that represents the everyday todos tracker
 
-To use this template click `Use this template`
+On this project using react-js with type-script and with libraries react-transition-group and uuid
 
-### Available Scripts
-
-`Deploy` - available to deploy your application to gh-pages
-
-`SCSS Preprocessor` - available to write your styles with modern style language
+This is demo link:
+      - [DEMO LINK](https://ospyrydonov.github.io/todo-app/)
