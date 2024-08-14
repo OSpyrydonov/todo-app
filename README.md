@@ -2,6 +2,7 @@
 
 ## About
 This app is a daily to-do tracker designed to help users efficiently manage and organize their tasks. Key features include customizable task lists. The app is designed with a clean, user-friendly layout, ensuring a seamless experience for managing daily responsibilities and boosting productivity.
+![image](https://github.com/user-attachments/assets/8fdcbd3c-2061-4d4d-8789-9ff2c7ab1f2b)
 
 ## Demo
 [DEMO LINK](https://ospyrydonov.github.io/todo-app/)
