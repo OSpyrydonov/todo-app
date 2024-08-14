@@ -1,3 +1,5 @@
+<a id="readme-top"></a>
+
 ## About
 This app is a daily to-do tracker designed to help users efficiently manage and organize their tasks. Key features include customizable task lists. The app is designed with a clean, user-friendly layout, ensuring a seamless experience for managing daily responsibilities and boosting productivity.
 
@@ -27,5 +29,22 @@ or
     `npm start`
 
 ## Stack used:
-React
-TypeScript
+* [![React][React.js]][React-url]
+* [![React][TypeScript]][TypeScript-url]
+
+## Contact
+
+Your Name - [Telegram](https://t.me/Oleksandr_Spyrydonov)
+
+Email - spyrydonov.oleksandr@gmail.com
+
+Project Link: [Link](https://github.com/OSpyrydonov/todo-app)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+[React-url]: https://reactjs.org/
+[TypeScript]: https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square
+[TypeScript-url]: https://www.typescriptlang.org/
