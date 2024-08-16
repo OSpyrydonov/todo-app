@@ -35,11 +35,11 @@ or
 
 ## Contact
 
-Telegram - [Telegram](https://t.me/Oleksandr_Spyrydonov)
+[Telegram](https://t.me/Oleksandr_Spyrydonov)
 
 Email - spyrydonov.oleksandr@gmail.com
 
-Project Link: [Link](https://github.com/OSpyrydonov/todo-app)
+[Project Link](https://github.com/OSpyrydonov/todo-app)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
