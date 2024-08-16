@@ -35,7 +35,7 @@ or
 
 ## Contact
 
-Your Name - [Telegram](https://t.me/Oleksandr_Spyrydonov)
+Telegram - [Telegram](https://t.me/Oleksandr_Spyrydonov)
 
 Email - spyrydonov.oleksandr@gmail.com
 
