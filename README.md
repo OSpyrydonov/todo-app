@@ -37,9 +37,9 @@ or
 
 [Telegram](https://t.me/Oleksandr_Spyrydonov)
 
-Email - spyrydonov.oleksandr@gmail.com
-
 [Project Link](https://github.com/OSpyrydonov/todo-app)
+
+spyrydonov.oleksandr@gmail.com
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
